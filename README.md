@@ -1,6 +1,10 @@
 # Valuation Mult3
 
-Esse repositório concentra os modelos e artefatos que eu utilizados para fazer o valuation da MULT3. Estou usando como base o [[https://ri.multiplan.com.br/ferramentas-de-analise/como-montar-o-modelo-da-multiplan/]guia da companhia] que lista as principais ferramentas para criar um modelo desse negócio. 
+Esse repositório concentra os modelos e artefatos que eu utilizados para fazer o valuation da MULT3. Estou usando como base o [guia da companhia](https://ri.multiplan.com.br/ferramentas-de-analise/como-montar-o-modelo-da-multiplan/]) que lista as principais ferramentas para criar um modelo desse negócio. 
+
+## Motivação
+
+Estou criando esses modelos para botar em prática duas habilidades, a primeira: fazer valuations. O que aprendi no curso _Financing Innovation_ do [LEAD](https://www.gsb.stanford.edu/exec-ed/programs/stanford-lead-online-business-program) em segundo lugar alguns desses modelos estão sendo criados com auxílio de LLMs e Code Helpers.
 
 ## MULT3
 
@@ -10,7 +14,7 @@ Os shopping centers da Multiplan possuem, somados, mais de 5.400 operações, qu
 
 A companhia também executa projetos multiuso, construindo, nas proximidades de seus shoppings, edifícios comerciais, prédios residenciais e hotéis. A estratégia busca gerar sinergias e fluxo de consumidores para os shoppings, ao mesmo tempo em que valoriza as regiões.
 
-(source: [[https://www.infomoney.com.br/cotacoes/b3/acao/multiplan-mult3/] informoney])
+(source:  [infomoney](https://www.infomoney.com.br/cotacoes/b3/acao/multiplan-mult3/))
 
 ## Artefatos 
 
@@ -25,4 +29,5 @@ A companhia também executa projetos multiuso, construindo, nas proximidades de 
 ### Despesas
 
 Os custos também tem variação relativa à inflação e utilizam os mesmos modelos. A maioria das despesas também utiliza inflação e série temporal a exceçào de **provisão para Provisão para créditos de liquidação duvidosa que usa dados do BACEN para avaliar a série.
+
 
